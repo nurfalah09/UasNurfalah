@@ -7,8 +7,7 @@ sistem ini juga menerapkan percabangan (if–elif) dan perulangan (while) sebaga
 
 Database MySQL dikelola menggunakan phpMyAdmin, sehingga data film dan pemesanan tiket dapat disimpan, ditampilkan, dan dikelola secara terstruktur.
 Sistem ini berjalan berbasis console (terminal) dan ditujukan sebagai media pembelajaran maupun tugas akademik
-untuk memahami integrasi Python dengan database MySQL.<img width="1052" height="747" alt="image" src="https://github.com/user-attachments/assets/a8cb71db-e63c-4ca8-bfc0-a5558f49386f" />
-
+untuk memahami integrasi Python dengan database MySQL.
 Tujuan dari pembuatan sistem ini adalah:
 
 Memahami konsep CRUD menggunakan Python dan MySQL
